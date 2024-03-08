@@ -1,0 +1,119 @@
+
+#id{border: 14px;
+
+}
+.ul{list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.call{
+margin-left: 1200px;
+margin-bottom: 8px;
+}
+#nav{
+    text-decoration: none;
+    font-size: 20px;
+    display: flex;
+    gap: 5%;
+}
+#Head{
+width: 80%;
+position: relative;
+}
+.head{
+    margin-top:2%;
+}
+#name1{
+    position:absolute;
+    bottom: 36%;
+    padding: left 50px; ;
+    padding-left: 450px;
+    font-size:small;
+    color:antiquewhite;
+    margin-bottom: 15%;
+}
+#body{
+    margin-left: 15%;
+}
+#name2{
+    font-size: 80px;
+    color:antiquewhite;
+    padding-left: 350px;
+    position: absolute;
+    bottom: 30%;
+    margin-top: 10%
+    
+}
+
+#name3{
+    position: absolute;
+bottom: 30%;
+}
+
+#pics{
+    display: flex;
+    gap: 5%;
+}
+.move{
+    width: 30%;
+    margin-bottom: 10%;
+
+}
+.box{width: 30%;
+    margin-left: 200px;
+
+
+}
+.learn{
+   margin-top: 3%; 
+}
+#foot{
+    display: flex;
+    gap: 10%;
+
+}
+
+#par{
+    display: flex;
+    gap: 5%;
+    margin-left: 45%;
+}
+#footer{
+display: flex;
+gap: 5%;
+}
+#btm{
+    display: flex;
+    gap: 5%;
+}
+@media screen and (min-width:480px) {
+    body{
+
+    }
+}
+#pg{ font-size: 14 ;
+    display: flex;
+    gap:5% ;
+    margin-top: 8%;
+
+}
+#pg1{ 
+    display: flex;
+    margin-top:10% ;
+
+}
+.li{
+    margin-top: 10%;
+}
+#par2{
+    margin-left: 30%;
+    margin-top: 3%;
+}
+.picture{
+    margin-top: 5%;
+}
+
+    #form{
+        background-color: yellow;
+    }
