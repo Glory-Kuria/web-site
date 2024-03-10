@@ -87,11 +87,13 @@ gap: 5%;
     display: flex;
     gap: 5%;
 }
-@media screen and (min-width:480px) {
+@media screen and (min-width:480px){
     body{
+        
+    }
 
     }
-}
+
 #pg{ font-size: 14 ;
     display: flex;
     gap:5% ;
@@ -115,5 +117,119 @@ gap: 5%;
 }
 
     #form{
-        background-color: yellow;
+    display: flex;
+    gap:1%
+
+ 
     }
+
+#form2{
+    margin-left: 20%;
+
+}
+#form3{
+    
+}
+#p{ border: 600px;
+    background-color: yellow;
+;
+}
+#back{
+    display: flex;
+    gap:10% ;
+}
+
+#p2{
+    display: flex;
+    background-color: blue;
+}
+
+#cust{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.avat{
+    border-radius: 50%;
+    width: 10%;
+}
+
+#let{
+    margin-top: 10%;
+    text-align: center;
+}
+
+#em{
+    margin-left: 25%;
+    display: flex;
+    gap: 10%;
+    margin-top: 6%;
+}
+
+#news{
+    text-align: center;
+    margin-top: 20%;
+}
+#sli1{
+    background-image: url('pics.html/couples.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 30%;
+}
+#sli2{
+    background-image: url('pics.html/couples.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 30%;
+}
+#sli3{
+    width: 30%;
+    background-image: url('pics.html/couples.jpg');
+    background-size: cover;
+    height: 200px;
+}
+#picss{
+    display: flex;
+    gap: 5%;
+}
+#words1{
+    margin-top: 20%;
+}
+#words2{
+    margin-top: 20%;
+}
+#words3{
+    margin-top: 20%;
+}
+#graph{
+    
+    margin-top: 8%;
+    background-color: yellow;
+    height: 200px;
+}
+#butt{
+ margin-left: 70%;
+}
+
+#footer1{
+    display: flex;
+background-color: gray;
+height: 400px;
+}
+#f4{
+    margin-left: 5%;
+}
+#f3{
+    margin-left: 5%;
+}
+#f2{
+    margin-left: 5%;
+}
+#f1{
+    margin-left: 10%;
+}
+#end{
+    margin-bottom: 100%;
+
+}
